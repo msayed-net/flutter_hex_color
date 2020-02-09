@@ -1,0 +1,16 @@
+name: hex_color
+description: HexColor extend Color class to take hex coded value.
+version: 0.1.0+1
+homepage: https://github.com/MohamedSayed95/hex_color
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  plugin:
+    androidPackage: net.msayed.hex_color
+    pluginClass: HexColorPlugin

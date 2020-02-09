@@ -1,0 +1,16 @@
+name: hex_color_example
+description: Demonstrates how to use the hex_color plugin.
+publish_to: 'none'
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  hex_color:
+    path: ../
+
+flutter:
+  uses-material-design: true
