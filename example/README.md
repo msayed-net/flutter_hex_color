@@ -1,8 +1,8 @@
-# hex_color_example
+# flutter_hex_color_example
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:hex_color/hex_color.dart';
+import 'package:flutter_hex_color/flutter_hex_color.dart';
 
 void main() => runApp(MyApp());
 

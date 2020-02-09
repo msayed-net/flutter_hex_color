@@ -1,4 +1,4 @@
-group 'net.msayed.hex_color'
+group 'net.msayed.flutter_hex_color'
 version '1.0-SNAPSHOT'
 
 buildscript {

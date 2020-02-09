@@ -9,7 +9,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^0.1.2
-  hex_color:
+  flutter_hex_color:
     path: ../
 
 flutter:

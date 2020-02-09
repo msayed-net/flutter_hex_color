@@ -1,4 +1,4 @@
-package net.msayed.hex_color_example
+package net.msayed.flutter_hex_color_example
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
