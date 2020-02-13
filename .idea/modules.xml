@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/hex_color.iml" filepath="$PROJECT_DIR$/hex_color.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/hex_color_android.iml" filepath="$PROJECT_DIR$/android/hex_color_android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/example/android/hex_color_example_android.iml" filepath="$PROJECT_DIR$/example/android/hex_color_example_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_hex_color.iml" filepath="$PROJECT_DIR$/flutter_hex_color.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/flutter_hex_color_android.iml" filepath="$PROJECT_DIR$/android/flutter_hex_color_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/flutter_hex_color_example_android.iml" filepath="$PROJECT_DIR$/example/android/flutter_hex_color_example_android.iml" />
     </modules>
   </component>
 </project>

@@ -13,4 +13,4 @@ dependencies:
 flutter:
   plugin:
     androidPackage: net.msayed.flutter_hex_color
-    pluginClass: HexColorPlugin
+    pluginClass: FlutterHexColorPlugin

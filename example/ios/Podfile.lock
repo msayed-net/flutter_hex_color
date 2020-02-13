@@ -1,21 +1,21 @@
 PODS:
   - Flutter (1.0.0)
-  - hex_color (0.0.1):
+  - flutter_hex_color (0.0.1):
     - Flutter
 
 DEPENDENCIES:
   - Flutter (from `Flutter`)
-  - hex_color (from `.symlinks/plugins/hex_color/ios`)
+  - flutter_hex_color (from `.symlinks/plugins/flutter_hex_color/ios`)
 
 EXTERNAL SOURCES:
   Flutter:
     :path: Flutter
-  hex_color:
-    :path: ".symlinks/plugins/hex_color/ios"
+  flutter_hex_color:
+    :path: ".symlinks/plugins/flutter_hex_color/ios"
 
 SPEC CHECKSUMS:
   Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
-  hex_color: f11fd37a0ae0e122738710a8a392f4295a78d78d
+  flutter_hex_color: 491a053abfac4f7bfae9e49f24408b6a6bad5b49
 
 PODFILE CHECKSUM: 1b66dae606f75376c5f2135a8290850eeb09ae83
 

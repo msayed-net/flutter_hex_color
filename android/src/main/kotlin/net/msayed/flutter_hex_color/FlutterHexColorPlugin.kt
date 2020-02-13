@@ -8,11 +8,11 @@ import io.flutter.plugin.common.MethodChannel.MethodCallHandler
 import io.flutter.plugin.common.MethodChannel.Result
 import io.flutter.plugin.common.PluginRegistry.Registrar
 
-/** HexColorPlugin */
-public class HexColorPlugin: FlutterPlugin, MethodCallHandler {
+/** FlutterHexColorPlugin */
+public class FlutterHexColorPlugin: FlutterPlugin, MethodCallHandler {
   override fun onAttachedToEngine(@NonNull flutterPluginBinding: FlutterPlugin.FlutterPluginBinding) {
-    val channel = MethodChannel(flutterPluginBinding.getFlutterEngine().getDartExecutor(), "hex_color")
-    channel.setMethodCallHandler(HexColorPlugin());
+    val channel = MethodChannel(flutterPluginBinding.getFlutterEngine().getDartExecutor(), "flutter_hex_color")
+    channel.setMethodCallHandler(FlutterHexColorPlugin());
   }
 
   // This static function is optional and equivalent to onAttachedToEngine. It supports the old
@@ -27,8 +27,8 @@ public class HexColorPlugin: FlutterPlugin, MethodCallHandler {
   companion object {
     @JvmStatic
     fun registerWith(registrar: Registrar) {
-      val channel = MethodChannel(registrar.messenger(), "hex_color")
-      channel.setMethodCallHandler(HexColorPlugin())
+      val channel = MethodChannel(registrar.messenger(), "flutter_hex_color")
+      channel.setMethodCallHandler(FlutterHexColorPlugin())
     }
   }
 

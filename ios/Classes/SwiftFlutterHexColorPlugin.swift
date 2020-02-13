@@ -1,10 +1,10 @@
 import Flutter
 import UIKit
 
-public class SwiftHexColorPlugin: NSObject, FlutterPlugin {
+public class SwiftFlutterHexColorPlugin: NSObject, FlutterPlugin {
   public static func register(with registrar: FlutterPluginRegistrar) {
-    let channel = FlutterMethodChannel(name: "hex_color", binaryMessenger: registrar.messenger())
-    let instance = SwiftHexColorPlugin()
+    let channel = FlutterMethodChannel(name: "flutter_hex_color", binaryMessenger: registrar.messenger())
+    let instance = SwiftFlutterHexColorPlugin()
     registrar.addMethodCallDelegate(instance, channel: channel)
   }
 
