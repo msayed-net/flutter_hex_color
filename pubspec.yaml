@@ -1,6 +1,6 @@
 name: flutter_hex_color
 description: HexColor extend Color class to take hex coded value.
-version: 0.1.0+1
+version: 1.0.0+2
 homepage: https://github.com/MohamedSayed95/flutter_hex_color
 
 environment:
