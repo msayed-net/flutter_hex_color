@@ -3,7 +3,7 @@ HexColor extend Color class to take hex coded value.
 
 
 ## Screenshots
-<img src="https://github.com/MohamedSayed95/flutter_hex_color/blob/master/screenshot1.png?raw=true" alt="screenshot" width="200"/><span>
+<img src="https://github.com/0x19950610/flutter_hex_color/blob/master/screenshot1.png?raw=true" alt="screenshot" width="200"/><span>
 
 
 ## How To Use
@@ -86,13 +86,13 @@ class _MyAppState extends State<MyApp> {
 
 ## Complete Example
 * [Pub](https://pub.dev/packages/flutter_hex_color#-example-tab-)
-* [Github](https://github.com/MohamedSayed95/flutter_hex_color/tree/master/example)
+* [Github](https://github.com/0x19950610/flutter_hex_color/tree/master/example)
 
 
 ## Author
 [![Mohamed Sayed](./logo.png)](https://msayed.net)
 
-* [![Fork](https://img.shields.io/github/forks/MohamedSayed95/flutter_hex_color?style=social)](https://github.com/MohamedSayed95/flutter_hex_color/fork) &nbsp; [![Star](https://img.shields.io/github/stars/MohamedSayed95/flutter_hex_color?style=social)](https://github.com/MohamedSayed95/flutter_hex_color/stargazers) &nbsp; [![Watches](https://img.shields.io/github/watchers/MohamedSayed95/flutter_hex_color?style=social)](https://github.com/MohamedSayed95/flutter_hex_color/) 
+* [![Fork](https://img.shields.io/github/forks/0x19950610/flutter_hex_color?style=social)](https://github.com/0x19950610/flutter_hex_color/fork) &nbsp; [![Star](https://img.shields.io/github/stars/0x19950610/flutter_hex_color?style=social)](https://github.com/0x19950610/flutter_hex_color/stargazers) &nbsp; [![Watches](https://img.shields.io/github/watchers/0x19950610/flutter_hex_color?style=social)](https://github.com/0x19950610/flutter_hex_color/) 
 * [![Plugin](https://img.shields.io/badge/Get%20library-pub-blue)](https://pub.dev/packages/flutter_hex_color) &nbsp; [![Example](https://img.shields.io/badge/Example-Ex-success)](https://pub.dev/packages/flutter_hex_color#-example-tab-)
 
 
