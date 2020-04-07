@@ -1,4 +1,4 @@
-## 1.0.1
+## 1.0.2
 + [FIX] Android Gradle Version
 
 ## 1.0.0+2
