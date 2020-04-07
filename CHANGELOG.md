@@ -1,3 +1,6 @@
+## 1.0.1
++ [FIX] Android Gradle Version
+
 ## 1.0.0+2
 + First Stable Version
 
