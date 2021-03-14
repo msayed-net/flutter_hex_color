@@ -1,3 +1,6 @@
+## 2.0.0
++ [Upgrade] Null Safety
+
 ## 1.0.2
 + [FIX] Android Gradle Version
 

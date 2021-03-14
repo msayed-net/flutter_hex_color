@@ -30,31 +30,21 @@ class _MyAppState extends State<MyApp> {
         body: Center(
           child: Column(
             children: <Widget>[
-              RaisedButton(
-                color: HexColor('000000'),
+              ElevatedButton(
+                child: Container(
+                  color: HexColor('000000'),
+                ),
                 onPressed: () {
                   color = HexColor('000000');
                   setState(() {});
                 },
               ),
-              RaisedButton(
-                color: HexColor('FFFFFF'),
+              ElevatedButton(
+                child: Container(
+                  color: HexColor('FFFFFF'),
+                ),
                 onPressed: () {
                   color = HexColor('FFFFFF');
-                  setState(() {});
-                },
-              ),
-              RaisedButton(
-                color: HexColor('ffae42'),
-                onPressed: () {
-                  color = HexColor('ffae42');
-                  setState(() {});
-                },
-              ),
-              RaisedButton(
-                color: HexColor('00FF00'),
-                onPressed: () {
-                  color = HexColor('00FF00');
                   setState(() {});
                 },
               ),
